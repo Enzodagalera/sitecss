@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    background-color: rgba(5, 114, 8, 0.384);
+    h1 {
+        text-align: center;
+        color: rgb(255, 255, 255);
+    }
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#nutricao{
+    height: 300px;
+    background-color: rgba(13, 47, 2, 0);
+    text-align: center;
+    align-items: center;
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    margin-left: auto;
+    background-image: url("img/pratocomida.jpg");
+    border-style: dotted;
+    border-width: 2px;
+    border-color: rgb(7, 1, 1);
+    bottom {
+    border-bottom: 50px;
+    border-bottom: black;
+    background-color:black
+    color(rgb(0, 0, 0) rgb(19, 23, 19) blue)
+    }
+} 
+
+#exercicios{
+    height: 500px;
+    width: 300px;
+    background-color: greenyellow;
+    float:left;
+    margin-left: 50px;
+    margin-top: 20px;
+    background-image: url("img/exercicio.jpg");
+    border-width: 2px;
+    border-color: rgb(7, 1, 1);
+} 
+
+#bemestar{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(243, 216, 216);
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+    background-image: url(img/cerebro.jpg);
+    background-repeat: no-repeat;
+    border-width: 2px;
+    border-color: rgb(7, 1, 1);
+}
+
+#receitas{
+    height: 500px;
+    clear: both;
+    width: 95%;
+    margin-left:50px;
+    text-align: center;
+    background-color: rgba(16, 120, 49, 0.415)
+}
+
+#dicas-saude{
+    height: 500px;
+    width: 670px;
+    background-color: rgb(255, 157, 0);
+    float: left;
+    margin-left: 5px;
+    margin-top: 15px;
+    margin-block-end: 5px;
+    background-image: url(img/medico.jpg);
+}
+
